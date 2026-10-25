@@ -5,9 +5,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "parser-kit-6"
 version = "0.1.0"
-description = "Decentralized utility package node 6 for validation checks."
+description = "Utility validation node"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "roguard-child-safety==7.0.0"
+    "roguard-child-safety"
 ]
